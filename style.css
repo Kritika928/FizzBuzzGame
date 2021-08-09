@@ -1,0 +1,36 @@
+body{
+    background: brown;
+    color: cornsilk;
+}
+div {
+ 
+    background-color: coral;
+    padding: 5px;
+    text-align: center;
+    margin-right: 500px;
+  }
+ 
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+     cursor: pointer;
+  }
+  input[type=number] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  } 
+
+  
+  
